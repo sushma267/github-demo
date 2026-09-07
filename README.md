@@ -1,5 +1,4 @@
 # github-demo
 This is my first repository
 <br>
-author - sushma bista (real author)
-original
+author - sushma bistaa
